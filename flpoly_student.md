@@ -1,27 +1,23 @@
-## First Name Last Name
+## Brandon Cruz
 
-### Term Year 
+### 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to Data Science
 
-- Course 2
-
-- Course 3
-
-- Course 4
+- Pre Calculus
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- PLaying and creating video games
 
-- Thing 2
+- Drawing
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Living my dream lifestyle <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/13
